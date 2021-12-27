@@ -1,0 +1,145 @@
+\documentclass{article} %article, beamer, and other global styles
+
+% LaTeX packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+  \setlength{\extrarowheight}{0.2cm} %avoids squished equations
+\usepackage[bottom]{footmisc}	%to fix footnotes to the bottom of pages
+\usepackage{color}
+%\usepackage{epsfig}
+\usepackage{enumerate}
+%\usepackage{enumitem} %to enable ``resume'' for enumeration
+\usepackage[gen]{eurosym} %for euro currency symbol
+\usepackage{fancyhdr} %use with the \setlength and \pagestyle commands
+\usepackage{float} %helps control placement of figures
+\usepackage[T1]{fontenc} %for French guillemots
+\usepackage{fullpage}
+\usepackage{graphicx} %for \includegraphics
+\usepackage[none]{hyphenat}
+\usepackage{mdwlist} %for \suspend{enumerate} and \resume{enumerate}
+\usepackage{url}
+
+% User-defined commands
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator{\Exp}{Exp}
+\DeclareMathOperator{\grad}{grad}
+\DeclareMathOperator{\Log}{Log}
+\DeclareMathOperator*{\Cor}{Cor}
+\DeclareMathOperator*{\diag}{diag}
+\DeclareMathOperator*{\rank}{rank}
+\DeclareMathOperator{\tr}{trace}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\dd}[1]{\frac{\text{d}}{\text{d} #1}}
+\newcommand{\sdd}[2]{\frac{\text{d}#2}{\text{d} #1}}
+\newcommand{\ddd}[1]{\frac{\text{d}^2}{\text{d}#1^2}}
+\newcommand{\sddd}[2]{\frac{\text{d}^2{#2}}{\text{d}{#1}^2}}
+\newcommand\forcesum[2]{\underset{#1}{\overset{#2}\sum}}
+\newcommand\forcemin[2]{\underset{#1}{\overset{#2}\min}}
+\newcommand\forcemax[2]{\underset{#1}{\overset{#2}\max}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\PP}{\mathbb{P}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\Y}{\mathcal{Y}}
+\newcommand{\isoa}{\xrightarrow{\sim}}
+
+% Colors (use with ``color'' package)
+\definecolor{LightGray}{rgb}{0.94,0.94,0.94}
+\definecolor{VeryLightBlue}{rgb}{0.9,0.9,1}
+\definecolor{LightBlue}{rgb}{0.8,0.8,1}
+\definecolor{DarkBlue}{rgb}{0,0,0.6}
+\definecolor{LightGreen}{rgb}{0.88,1,0.88}
+\definecolor{MidGreen}{rgb}{0.6,1,0.6}
+\definecolor{DarkGreen}{rgb}{0,0.6,0}
+\definecolor{VeryLightYellow}{rgb}{1,1,0.9}
+\definecolor{LightYellow}{rgb}{1,1,0.6}
+\definecolor{MidYellow}{rgb}{1,1,0.5}
+\definecolor{VeryLightRed}{rgb}{1,0.9,0.9}
+\definecolor{LightRed}{rgb}{1,0.8,0.8}
+\definecolor{Red}{rgb}{1,0,0}
+\definecolor{Green}{rgb}{0,1,0}
+\definecolor{Blue}{rgb}{0,0,1}
+\definecolor{Purple}{rgb}{1,0,1}
+\definecolor{Gray}{rgb}{0.5,0.5,0.5}
+\definecolor{Black}{rgb}{0,0,0}
+\definecolor{White}{rgb}{1,1,1}
+\newcommand{\White}[1]{{\color{White}{#1}}}
+\newcommand{\VeryLightBlue}[1]{{\color{VeryLightBlue}{#1}}}
+\newcommand{\LightBlue}[1]{{\color{LightBlue}{#1}}}
+\newcommand{\DarkBlue}[1]{{\color{DarkBlue}{#1}}}
+\newcommand{\DarkGreen}[1]{{\color{DarkGreen}{#1}}}
+\newcommand{\VeryLightRed}[1]{{\color{VeryLightRed}{#1}}}
+\newcommand{\LightRed}[1]{{\color{LightRed}{#1}}}
+\newcommand{\Red}[1]{{\color{Red}{#1}}}
+\newcommand{\Gray}[1]{{\color{Gray}{#1}}}
+\newcommand{\Black}[1]{{\color{Black}{#1}}}
+\newcommand{\Blue}[1]{{\color{Blue}{#1}}}
+\newcommand{\Purple}[1]{{\color{Purple}{#1}}}
+\newcommand{\Green}[1]{{\color{Green}{#1}}}
+\newcommand{\LightGray}[1]{{\color{LightGray}{#1}}}
+
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\setlength{\headsep}{15pt}
+\begin{document} % main environment
+
+% title page
+\begin{center}
+\Large
+Notes for
+$$~$$
+\Huge
+Duolingo
+$$~$$
+\Large
+French
+$$~$$
+\large
+Notes compiled by Derek Sollberger
+\end{center}
+
+
+\pagebreak
+\lhead{Duolingo}
+\rhead{French}
+\tableofcontents
+
+
+\pagebreak
+\chead{Chapter 1}
+\section{Chapter 1}
+
+\input{ch1}
+
+\pagebreak
+\chead{Chapter 2}
+\section{Chapter 2}
+
+\input{ch2}
+
+\pagebreak
+\chead{Chapter 3}
+\section{Chapter 3}
+
+\input{ch3}
+
+\pagebreak
+\chead{Chapter 4}
+\section{Chapter 4}
+
+\input{ch4}
+
+
+%\pagebreak
+%\chead{Appendices}
+%\section{Appendices}
+
+%\input{accents}
+
+\normalsize
+
+% Works Cited
+%\bibliographystyle{plain}
+%\bibliography{sollberger}
+\end{document}

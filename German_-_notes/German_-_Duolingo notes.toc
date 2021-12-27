@@ -1,0 +1,189 @@
+\contentsline {section}{\numberline {1}Chapter 1}{6}
+\contentsline {subsection}{\numberline {1.1}Basics 1}{6}
+\contentsline {subsubsection}{\numberline {1.1.1}Capitalizing nouns}{6}
+\contentsline {subsubsection}{\numberline {1.1.2}Conjugations of the verb sein (to be)}{6}
+\contentsline {subsubsection}{\numberline {1.1.3}Umlauts}{6}
+\contentsline {subsubsection}{\numberline {1.1.4}No continuous aspect}{6}
+\contentsline {subsubsection}{\numberline {1.1.5}Conjugating regular verbs}{7}
+\contentsline {subsubsection}{\numberline {1.1.6}Vocabulary}{7}
+\contentsline {subsection}{\numberline {1.2}The}{8}
+\contentsline {subsubsection}{\numberline {1.2.1}Three grammatical genders, three types of nouns}{8}
+\contentsline {subsection}{\numberline {1.3}Basics 2}{9}
+\contentsline {subsubsection}{\numberline {1.3.1}German plurals - the Nominative Case}{9}
+\contentsline {subsubsection}{\numberline {1.3.2}German feminine plurals - nouns ending in -in}{9}
+\contentsline {subsubsection}{\numberline {1.3.3}ihr vs er}{9}
+\contentsline {subsubsection}{\numberline {1.3.4}Simple German Present Tense}{9}
+\contentsline {subsection}{\numberline {1.4}Common Phrases}{10}
+\contentsline {subsubsection}{\numberline {1.4.1}Wie geht's?}{10}
+\contentsline {subsubsection}{\numberline {1.4.2}Willkommen can be a false friend}{10}
+\contentsline {subsubsection}{\numberline {1.4.3}Vocabulary}{10}
+\contentsline {subsection}{\numberline {1.5}Accusative Case}{11}
+\contentsline {subsubsection}{\numberline {1.5.1}German Cases}{11}
+\contentsline {subsubsection}{\numberline {1.5.2}Conjugations of the verb essen (to eat)}{12}
+\contentsline {subsubsection}{\numberline {1.5.3}The verb haben (to have)}{12}
+\contentsline {subsection}{\numberline {1.6}Introductions}{13}
+\contentsline {subsection}{\numberline {1.7}Food}{14}
+\contentsline {subsubsection}{\numberline {1.7.1}Mittagessen - lunch or dinner?}{14}
+\contentsline {subsubsection}{\numberline {1.7.2}Compound words}{14}
+\contentsline {subsubsection}{\numberline {1.7.3}Cute like sugar!}{14}
+\contentsline {subsubsection}{\numberline {1.7.4}Vocabulary}{15}
+\contentsline {subsection}{\numberline {1.8}Animals}{16}
+\contentsline {subsubsection}{\numberline {1.8.1}Essen and Fressen}{16}
+\contentsline {subsubsection}{\numberline {1.8.2}Vocabulary}{16}
+\contentsline {section}{\numberline {2}Chapter 2}{17}
+\contentsline {subsection}{\numberline {2.1}Plurals}{17}
+\contentsline {subsection}{\numberline {2.2}Adjectives}{18}
+\contentsline {subsubsection}{\numberline {2.2.1}Predicate adjectives}{18}
+\contentsline {subsubsection}{\numberline {2.2.2}Vocabulary}{18}
+\contentsline {subsection}{\numberline {2.3}Negation}{19}
+\contentsline {subsubsection}{\numberline {2.3.1}Nicht}{19}
+\contentsline {subsubsection}{\numberline {2.3.2}Kein}{19}
+\contentsline {subsubsection}{\numberline {2.3.3}Nicht versus Nichts}{19}
+\contentsline {subsubsection}{\numberline {2.3.4}Vocabulary}{20}
+\contentsline {subsection}{\numberline {2.4}Questions and Statements}{21}
+\contentsline {subsubsection}{\numberline {2.4.1}Vocabulary}{21}
+\contentsline {subsection}{\numberline {2.5}Present 1}{22}
+\contentsline {subsubsection}{\numberline {2.5.1}How do you `like' things in German?}{22}
+\contentsline {subsubsection}{\numberline {2.5.2}Vocabulary}{23}
+\contentsline {subsection}{\numberline {2.6}Clothing}{24}
+\contentsline {subsubsection}{\numberline {2.6.1}Kleider - dresses or clothes?}{24}
+\contentsline {subsubsection}{\numberline {2.6.2}Hose or Hosen?}{24}
+\contentsline {subsubsection}{\numberline {2.6.3}Vocabulary}{24}
+\contentsline {subsection}{\numberline {2.7}Nature}{25}
+\contentsline {subsubsection}{\numberline {2.7.1}Vocabulary}{25}
+\contentsline {section}{\numberline {3}Chapter 3}{26}
+\contentsline {subsection}{\numberline {3.1}Possessive Pronouns}{26}
+\contentsline {subsubsection}{\numberline {3.1.1}Personal Pronouns in the Nominative Case}{26}
+\contentsline {subsubsection}{\numberline {3.1.2}Demonstrative Pronouns in the Nominative Case}{26}
+\contentsline {subsection}{\numberline {3.2}Nominative Pronouns}{28}
+\contentsline {subsection}{\numberline {3.3}Negatives}{29}
+\contentsline {subsection}{\numberline {3.4}Adverbs 1}{30}
+\contentsline {subsection}{\numberline {3.5}Places 1}{31}
+\contentsline {subsection}{\numberline {3.6}Stuff}{32}
+\contentsline {subsection}{\numberline {3.7}Accusative Pronouns}{33}
+\contentsline {subsubsection}{\numberline {3.7.1}Personal Pronouns in the Accusative Case}{33}
+\contentsline {subsubsection}{\numberline {3.7.2}Demonstrative Pronouns in the Accusative Case}{33}
+\contentsline {subsection}{\numberline {3.8}Household 1}{34}
+\contentsline {subsection}{\numberline {3.9}Conjunctions}{35}
+\contentsline {subsection}{\numberline {3.10}People 1}{36}
+\contentsline {subsection}{\numberline {3.11}Questions 2}{37}
+\contentsline {subsubsection}{\numberline {3.11.1}Asking a Question in German With a W-Word}{37}
+\contentsline {subsubsection}{\numberline {3.11.2}Wer (Who)}{37}
+\contentsline {subsubsection}{\numberline {3.11.3}Was (What)}{37}
+\contentsline {subsubsection}{\numberline {3.11.4}Wo (Where)}{37}
+\contentsline {subsubsection}{\numberline {3.11.5}Wann (When)}{37}
+\contentsline {subsubsection}{\numberline {3.11.6}Warum (Why)}{38}
+\contentsline {subsubsection}{\numberline {3.11.7}Vocabulary}{38}
+\contentsline {subsection}{\numberline {3.12}Family 1}{39}
+\contentsline {section}{\numberline {4}Chapter 4}{40}
+\contentsline {subsection}{\numberline {4.1}Accusative Prepositions}{40}
+\contentsline {subsubsection}{\numberline {4.1.1}Two-Way Prepositions}{40}
+\contentsline {subsubsection}{\numberline {4.1.2}zu Hause and nach Hause}{40}
+\contentsline {subsection}{\numberline {4.2}Numbers}{41}
+\contentsline {subsection}{\numberline {4.3}Food 2}{42}
+\contentsline {subsection}{\numberline {4.4}Dative Case}{43}
+\contentsline {subsubsection}{\numberline {4.4.1}German Plurals: The Dative Case}{43}
+\contentsline {subsection}{\numberline {4.5}Money}{45}
+\contentsline {subsection}{\numberline {4.6}Dative Pronouns}{46}
+\contentsline {subsection}{\numberline {4.7}Family 2}{47}
+\contentsline {subsection}{\numberline {4.8}Dative Prepositions}{48}
+\contentsline {subsection}{\numberline {4.9}Body}{49}
+\contentsline {subsection}{\numberline {4.10}You (Formal)}{50}
+\contentsline {subsection}{\numberline {4.11}Travel}{51}
+\contentsline {subsubsection}{\numberline {4.11.1}Nationality}{52}
+\contentsline {subsection}{\numberline {4.12}Some}{53}
+\contentsline {subsection}{\numberline {4.13}Shopping}{54}
+\contentsline {subsection}{\numberline {4.14}Numbers 2}{55}
+\contentsline {subsection}{\numberline {4.15}Colors}{56}
+\contentsline {subsubsection}{\numberline {4.15.1}Declension classes}{56}
+\contentsline {subsection}{\numberline {4.16}Imperative}{58}
+\contentsline {subsection}{\numberline {4.17}Occupation}{59}
+\contentsline {subsubsection}{\numberline {4.17.1}Dropping articles}{59}
+\contentsline {subsubsection}{\numberline {4.17.2}Male and female variants}{59}
+\contentsline {subsection}{\numberline {4.18}Prepositions}{61}
+\contentsline {subsubsection}{\numberline {4.18.1}Contractions}{62}
+\contentsline {subsection}{\numberline {4.19}Materials}{63}
+\contentsline {subsection}{\numberline {4.20}Ordinal Numbers}{65}
+\contentsline {section}{\numberline {5}Chapter 5}{66}
+\contentsline {subsection}{\numberline {5.1}Comparison}{66}
+\contentsline {subsection}{\numberline {5.2}Qualifiers}{67}
+\contentsline {subsection}{\numberline {5.3}House 2}{68}
+\contentsline {subsection}{\numberline {5.4}Dates 1}{70}
+\contentsline {subsection}{\numberline {5.5}Adjectives: Predicative 2}{71}
+\contentsline {subsection}{\numberline {5.6}Location}{72}
+\contentsline {subsection}{\numberline {5.7}Adjectives: Predicative 3}{73}
+\contentsline {subsection}{\numberline {5.8}Places 2}{74}
+\contentsline {subsection}{\numberline {5.9}Medical}{75}
+\contentsline {subsection}{\numberline {5.10}Present 2}{76}
+\contentsline {subsection}{\numberline {5.11}Dates 2}{78}
+\contentsline {subsection}{\numberline {5.12}People 2}{79}
+\contentsline {subsection}{\numberline {5.13}Future}{80}
+\contentsline {subsection}{\numberline {5.14}Feelings}{81}
+\contentsline {subsection}{\numberline {5.15}Time}{82}
+\contentsline {subsection}{\numberline {5.16}Frequency}{83}
+\contentsline {subsection}{\numberline {5.17}Verbs: Modal}{84}
+\contentsline {section}{\numberline {6}Chapter 6}{86}
+\contentsline {subsection}{\numberline {6.1}Adverbs 2}{86}
+\contentsline {subsection}{\numberline {6.2}Nature 2}{87}
+\contentsline {subsection}{\numberline {6.3}Genitive Case}{88}
+\contentsline {subsection}{\numberline {6.4}Occupations 2}{89}
+\contentsline {subsection}{\numberline {6.5}Perfect}{90}
+\contentsline {subsubsection}{\numberline {6.5.1}How is the Perfekt formed?}{90}
+\contentsline {subsection}{\numberline {6.6}Adjectives: Nominative 1}{92}
+\contentsline {subsection}{\numberline {6.7}Adjectives: Accusative}{93}
+\contentsline {subsection}{\numberline {6.8}Adjectives: Dative}{94}
+\contentsline {subsection}{\numberline {6.9}Directions}{95}
+\contentsline {subsection}{\numberline {6.10}Adjectives: Nominative 2}{96}
+\contentsline {subsection}{\numberline {6.11}Adverbs 3}{97}
+\contentsline {subsection}{\numberline {6.12}Preterite}{98}
+\contentsline {subsubsection}{\numberline {6.12.1}When is the Pr{\"a}teritum used?}{98}
+\contentsline {subsubsection}{\numberline {6.12.2}How is the Pr{\"a}teritum formed?}{98}
+\contentsline {subsection}{\numberline {6.13}Weather}{100}
+\contentsline {subsection}{\numberline {6.14}Objects 2}{101}
+\contentsline {subsection}{\numberline {6.15}Communications 1}{102}
+\contentsline {subsection}{\numberline {6.16}Future 2}{103}
+\contentsline {subsection}{\numberline {6.17}Internet and Social Media}{104}
+\contentsline {section}{\numberline {7}Chapter 7}{105}
+\contentsline {subsection}{\numberline {7.1}Past Perfect}{105}
+\contentsline {subsection}{\numberline {7.2}Education}{106}
+\contentsline {subsection}{\numberline {7.3}Future Perfect}{107}
+\contentsline {subsection}{\numberline {7.4}Phrases 2}{108}
+\contentsline {subsection}{\numberline {7.5}Science}{109}
+\contentsline {subsection}{\numberline {7.6}Reflexive Verbs}{110}
+\contentsline {subsection}{\numberline {7.7}Communication 2}{112}
+\contentsline {subsection}{\numberline {7.8}Business 1}{113}
+\contentsline {subsection}{\numberline {7.9}Language}{114}
+\contentsline {subsection}{\numberline {7.10}Abstract Objects 1}{115}
+\contentsline {subsection}{\numberline {7.11}Animals 2}{116}
+\contentsline {subsection}{\numberline {7.12}Present 3}{117}
+\contentsline {subsection}{\numberline {7.13}Body 2}{119}
+\contentsline {subsection}{\numberline {7.14}Future 3}{120}
+\contentsline {subsection}{\numberline {7.15}Spiritual}{121}
+\contentsline {subsection}{\numberline {7.16}Verbs: Conditional}{122}
+\contentsline {subsection}{\numberline {7.17}Math}{123}
+\contentsline {subsection}{\numberline {7.18}Banking}{124}
+\contentsline {subsection}{\numberline {7.19}Abstract Objects 2}{125}
+\contentsline {subsection}{\numberline {7.20}Conditional Perfect}{126}
+\contentsline {section}{\numberline {8}Chapter 8}{127}
+\contentsline {subsection}{\numberline {8.1}Business 2}{127}
+\contentsline {subsection}{\numberline {8.2}Future 4}{128}
+\contentsline {subsection}{\numberline {8.3}Sports}{129}
+\contentsline {subsection}{\numberline {8.4}Perfect 2}{130}
+\contentsline {subsection}{\numberline {8.5}Art}{131}
+\contentsline {subsection}{\numberline {8.6}Passive Voice}{132}
+\contentsline {subsection}{\numberline {8.7}Religion}{133}
+\contentsline {subsection}{\numberline {8.8}Politics}{134}
+\contentsline {subsection}{\numberline {8.9}Adverbs 4}{135}
+\contentsline {subsection}{\numberline {8.10}Abstract Objects 3}{136}
+\contentsline {subsection}{\numberline {8.11}Verbs: Conditional 2}{137}
+\contentsline {subsection}{\numberline {8.12}Philosophy}{138}
+\contentsline {subsection}{\numberline {8.13}Present 4}{139}
+\contentsline {subsection}{\numberline {8.14}Fantasy and Science Fiction}{140}
+\contentsline {subsection}{\numberline {8.15}Abstract Objects 4}{141}
+\contentsline {subsection}{\numberline {8.16}Relative Pronouns}{143}
+\contentsline {subsection}{\numberline {8.17}Classical Music}{144}
+\contentsline {subsection}{\numberline {8.18}Politics 2}{145}
+\contentsline {subsection}{\numberline {8.19}German Culture}{146}
+\contentsline {subsection}{\numberline {8.20}The World}{147}
+\contentsline {section}{\numberline {9}Appendices}{148}
+\contentsline {subsubsection}{\numberline {9.0.1}German Characters Keyboard Codes}{148}
